@@ -2,7 +2,7 @@ The release of a new decentralized wallet with support for Zoin Coin (ZOI) marks
 
 ### Overview
 A decentralized wallet with Zoin Coin (ZOI) support allows users to store, manage, and transact ZOI securely and privately. Unlike centralized wallets, a decentralized wallet provides users full control over their private keys and funds, enhancing security and privacy.
-
+![alt text](https://github.com/seopub/dex_wallet/blob/main/dex_wallet_tx.png?raw=true)
 ### Key Features
 
 1. **Enhanced Security**:
